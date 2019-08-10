@@ -1,0 +1,26 @@
+/* @media */
+
+
+@media only screen and (max-width: 320px) {
+   #rectangle h1{ font-size: 1.2em; }
+}
+
+@media only screen and (max-width: 320px) {
+   #Titles_Center_White { font-size: 1.5em; }
+}
+
+@media only screen and (max-width: 320px) {
+   #Titles_Center_Black { font-size: 1.5em; }
+}
+
+@media only screen and (max-width: 320px) {
+   p { font-size: 0.9em; }
+}
+
+@media only screen and (max-width: 320px) {
+   h1, h2, h3, h4, h5, h6 { font-size: 0.9em; }
+}
+
+@media only screen and (max-width: 800px) {
+   h1, h2, h3, h4, h5, h6 { font-size: 1.2em; }
+}

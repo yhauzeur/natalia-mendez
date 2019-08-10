@@ -1,0 +1,53 @@
+#Bg2Color
+{
+background: url('Cs6qJLDUIAAnA9j.jpg');
+background-position: center;
+background-size: cover;
+height: 700px;
+width: 100%;
+}
+
+#fotoConferencia1
+{
+background: url('blank-composition-data-373076.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+#fotoConferencia2
+{
+background: url('discussing-facial-expression-indoors-1181533.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 500px;
+}
+
+#fotoConferencia3
+{
+background: url('cameras-composition-data-1483937.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 500px;
+}
+
+#fotoConferencia4
+{
+background: url('beautiful-blur-casual-935756.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 500px;
+}
+
+#fotoConferencia5
+{
+background: url('backlit-clouds-friends-853168.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 500px;
+}

@@ -1,0 +1,72 @@
+/* My style Foundation */
+
+*
+{
+  font-family: Helvetica;
+}
+
+#rectangle{
+    width: 55%;
+    height:auto;
+    padding: 10px;
+    border: 5px solid;
+    border-color: #fff;
+}
+
+#h2_Txt
+{
+  text-align: center;
+  color: #fff;
+  font-size: 1.5em;
+  letter-spacing: 10px;
+  margin-top: 75px;
+}
+
+h5
+{
+  color: #2a8585;
+}
+
+h3
+{
+  color: #C93553;
+}
+
+#hoverOrange:hover
+{
+ color: #F69608;
+}
+
+#hoverGreen:hover
+{
+ color: #BDD826;
+}
+
+#hoverPurple:hover
+{
+ color: #EE10B8;
+}
+
+#headerlink:hover
+{
+  color: #2a8585;
+}
+
+a#headerlink
+{
+  color: #C93553;
+}
+
+a:hover, a:focus {
+    color: #2a8585;
+}
+
+a{
+  color: #fff;
+}
+
+ul li
+{
+  color: #000;
+  list-style: none;
+}
